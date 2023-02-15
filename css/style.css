@@ -49,6 +49,15 @@ header.car{
     background-image: url(../img/headerBGcar.png);
 }
 
+header.flower{
+    background-image: url(../img/headerBGPlants.png);
+}
+
+header.animals{
+    background-image: url(../img/headerBGAnimals.png);
+}
+
+
 header p {
     color: aliceblue;
 
